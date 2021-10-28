@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<User>
+    <userId>1</userId>
+    <userName>Steven</userName>
+    <password>@sun123</password>
+    <birthday>2021-09-04T12:13:36.220+08:00</birthday>
+    <money>1000.0</money>
+    <computers>
+        <serialNumber>123</serialNumber>
+        <brandName>QQQ</brandName>
+        <produceDate>2021-09-04T12:13:36.207+08:00</produceDate>
+        <price>10000.0</price>
+    </computers>
+    <computers>
+        <serialNumber>456</serialNumber>
+        <brandName>WWW</brandName>
+        <produceDate>2021-09-04T12:13:36.207+08:00</produceDate>
+        <price>20000.0</price>
+    </computers>
+</User>

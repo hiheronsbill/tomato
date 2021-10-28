@@ -1,0 +1,17 @@
+spring:
+  data:
+    mongodb:
+      uri: "mongodb://localhost:27007/mongo"
+
+server:
+  port: 8866
+
+mongo:
+  database: mongo
+  transaction:
+    enable: true
+
+
+
+
+debug: true
